@@ -1,6 +1,6 @@
 # Explore California Web App
 
-A web application that handles blog posts using ASP.NET MVC Core and Entity Framework.
+A web application that handles blog posts using ASP.NET Core MVC and Entity Framework.
 
 # What I learned
 
